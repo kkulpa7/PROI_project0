@@ -5,4 +5,5 @@ int main(){
     cin>>number1>>number2;
     int sum = number1 + number2;
     cout<<sum;
+    cout<<"koniec";
 }
