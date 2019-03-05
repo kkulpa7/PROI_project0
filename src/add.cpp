@@ -1,6 +1,6 @@
 /*Katarzyna Kulpa 2i5
 Adding two numbers
-mgr in¿. Wiktor Kuœmirek*/
+mgr inz. Wiktor Kusmirek*/
 #include <iostream>
 using namespace std;
 int main(){
