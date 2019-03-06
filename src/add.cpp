@@ -11,5 +11,5 @@ int main(){
     cin>>number2;
     int sum = number1 + number2;
     cout<<"Result: ";
-    cout<<sum;
+    cout<<sum<<endl;
 }
