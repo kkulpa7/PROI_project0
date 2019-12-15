@@ -1,2 +1,2 @@
-# Project0
+# PROI_project0
 The program adds two numbers and returns their sum.
